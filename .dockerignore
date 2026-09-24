@@ -1,0 +1,7 @@
+frontend/
+seed/
+.env
+.env.*
+.git/
+*.md
+backend/target/
