@@ -312,7 +312,7 @@ LIMIT 80
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/123Deepaksaini/SkillGraph.git
+git clone https://github.com/manojrajput/SkillGraph.git
 cd SkillGraph
 ```
 
